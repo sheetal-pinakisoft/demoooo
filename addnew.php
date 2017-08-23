@@ -86,8 +86,7 @@
 <body>
 
 <div class="navbar navbar-default navbar-static-top" role="navigation">
-    <div class="container">
- 
+    <div class="container"> 
         <div class="navbar-header">
             <a class="navbar-brand" href="http://www.codingcage.com" title='Programming Blog'>Coding Cage</a>
             <a class="navbar-brand" href="http://www.codingcage.com/search/label/CRUD">CRUD</a>
